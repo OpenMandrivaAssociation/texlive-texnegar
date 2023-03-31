@@ -1,6 +1,6 @@
 Name:		texlive-texnegar
 Version:	57692
-Release:	1
+Release:	2
 Summary:	Kashida justification in XeLaTeX and LuaLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texnegar
