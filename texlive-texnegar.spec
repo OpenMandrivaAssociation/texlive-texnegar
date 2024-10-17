@@ -3,7 +3,7 @@ Version:	57692
 Release:	2
 Summary:	Kashida justification in XeLaTeX and LuaLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texnegar
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/texnegar
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texnegar.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texnegar.doc.r%{version}.tar.xz
